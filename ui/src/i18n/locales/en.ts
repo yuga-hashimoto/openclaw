@@ -115,8 +115,9 @@ export const en: TranslationMap = {
   },
   languages: {
     en: "English",
-    zhCN: "简体中文 (Simplified Chinese)",
-    zhTW: "繁體中文 (Traditional Chinese)",
-    ptBR: "Português (Brazilian Portuguese)",
+    zhCN: "\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
+    zhTW: "\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
+    ptBR: "Portugu\u00eas (Brazilian Portuguese)",
+    ja: "\u65e5\u672c\u8a9e (Japanese)",
   },
 };
